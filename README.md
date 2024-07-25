@@ -1,7 +1,8 @@
 - 👋 Hola, soy @aesas o más conocido como EmilioVisión
 - 👀 Me interesa la televisión y archivar sucesos de ahí
 - 🌱 Desarrollador de un bot en Discord
-- 💞️ Yo colaboro en un proyecto llamado RetroKids (https://retrokids.eu.org)
+- 💞️ Yo colaboro en un proyecto llamado Retro Discovery Kids (https://retrokids.eu.org)
+- 🛠️ Recupero páginas en mi proyecto Más Revivido (https://masrevivido.eu.org)
 - 📫 Puedo ayudarte en algún proyecto
 
 <!---
